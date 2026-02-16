@@ -22,7 +22,7 @@ Huchuan Lu<sup>1</sup>
 </div>
 
 <p align="center">
-    <a href="https://arxiv.org/abs/2511.06365">
+    <a href="">
     <img alt="Static Badge" src="https://img.shields.io/badge/Paper-openproject.svg?logo=openproject&color=%23B31B1B">
     </a>
     <a href=""><img src="https://img.shields.io/badge/python-3.10+-aff.svg"></a>
