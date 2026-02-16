@@ -35,7 +35,7 @@ Huchuan Lu<sup>1</sup>
 ---
 
 ## 🌋  Notes
-This is the official implementation for our paper "[UniRF: Unified Rectified Flow for Aligned Multi-modal Remote Sensing Image Generation](https://arxiv.org/abs/2511.06365)". 
+This is the official implementation for our paper "[UniRF: Unified Rectified Flow for Aligned Multi-modal Remote Sensing Image Generation]()". 
 
 ![](./images/Fig1.png)
 <p align="center">
