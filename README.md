@@ -14,11 +14,6 @@ Huchuan Lu<sup>1</sup>
 <sup>1</sup>Dalian University of Technology &nbsp;&nbsp;
 <sup>2</sup>Unit 92728 of PLA
 </p>
-
-<p>
-<sup>†</sup>Corresponding Author  
-</p>
-
 </div>
 
 <p align="center">
