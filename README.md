@@ -4,7 +4,7 @@
 
 <p>
 <a href="mailto:tanghaojun@mail.dlut.edu.cn">Haojun Tang</a><sup>1</sup>,
-<a href="mailto:zhaowenda@dlut.edu.cn">Wenda Zhao</a><sup>1†</sup>,
+<a href="mailto:zhaowenda@dlut.edu.cn">Wenda Zhao</a><sup>1</sup>,
 Yu Zhang<sup>1</sup>,
 Haipeng Wang<sup>2</sup>,
 Huchuan Lu<sup>1</sup>
